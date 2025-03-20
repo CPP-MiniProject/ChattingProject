@@ -1,0 +1,5 @@
+*.pch
+*.VC.db
+*.ipch
+x64/Debug/
+.vs/
