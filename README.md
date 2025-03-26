@@ -131,3 +131,16 @@ MFC의 GUI 컴포넌트와 이벤트 처리 흐름을 적극 활용하여, **사
 - 전송 중 취소 기능 추가
 - 메시지 암호화 및 보안 통신 적용 (TLS 등)
 - 📹 **영상 통화 기능 추가 예정**
+---
+
+## 🖼️ UI 구성
+<table>
+<tr>
+<td>
+<img width="472" alt="Image" src="https://github.com/user-attachments/assets/24e1b44e-e259-4bec-8563-ec33eac858c1" />
+</td>
+<td>
+<img width="472" alt="Image" src="https://github.com/user-attachments/assets/57e47611-4390-4364-b91d-b5dfaf07c0e7" />
+</td>
+</tr>
+</table>
