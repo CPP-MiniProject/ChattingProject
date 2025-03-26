@@ -111,8 +111,8 @@ MFC의 GUI 컴포넌트와 이벤트 처리 흐름을 적극 활용하여, **사
 ## 👥 팀원 소개
 | 이름 | 역할 | 주요 업무 | GitHub |
 |------|------|-----------|--------|
-| **이경준** | 팀장 / 개발자 | 서버/클라이언트 전체 통신 구조 설계 및 구현, 채팅 및 파일 송수신 기능 개발, 통신 프로토콜 설계 및 구현 | [![GitHub](https://img.shields.io/badge/GitHub-KYEONGJUN-LEE-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
-| **김다운** | 개발자 | 서버/클라이언트 전체 통신 구조 설계 및 구현, 사용자 인터페이스 개발, 통신 프로토콜 설계 및 구현 | [![GitHub](https://img.shields.io/badge/GitHub-dawoonykim-black?logo=github)](https://github.com/dawoonykim) |
+| **이경준** | 팀장 / 개발자 | 서버/클라이언트 전체 통신 구조 설계 및 구현, 채팅 및 파일 송수신 기능 개발, 통신 프로토콜 설계 및 구현 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
+| **김다운** | 개발자 | 서버/클라이언트 전체 통신 구조 설계 및 구현, 사용자 인터페이스 개발, 통신 프로토콜 설계 및 구현 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dawoonykim) |
 
 
 ---
